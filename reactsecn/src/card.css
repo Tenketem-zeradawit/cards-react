@@ -1,0 +1,17 @@
+.card{
+    width: 300px;
+    border: 2px solid rgba(0, 0, 0, 0.459);
+    margin: 20px;
+    border-radius: 3px;
+
+}
+.card img{
+    width: 300px;
+}
+h2{
+    text-align: center;
+}
+p{
+   text-align: center;
+}
+hr{ color: blue;}
